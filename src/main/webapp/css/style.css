@@ -1,0 +1,15 @@
+.custom-bg{
+	background:F44336!important;
+}
+
+.admin .card{
+	border:1px solid red;
+}
+.list-group-item.active{
+	background:F44336!important;
+} 
+.discount-label{
+	font-size:10px;
+	font-style:italic;
+	text-decoration: line-through!important;
+}
